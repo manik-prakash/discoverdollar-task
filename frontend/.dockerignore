@@ -1,0 +1,16 @@
+node_modules
+npm-debug.log
+.npm
+
+dist
+.angular
+
+.git
+.gitignore
+
+Dockerfile
+.dockerignore
+
+.editorconfig
+.vscode
+coverage
