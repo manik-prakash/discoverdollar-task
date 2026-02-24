@@ -163,26 +163,26 @@ Go to **Settings → Secrets and variables → Actions** and add:
 
 ### Pipeline screenshot — CI/CD execution
 
-[cicd](screenshots/cicd.png)
+![cicd](screenshots/cicd.png)
 
 ### Pipeline screenshot — Docker image build and push
 
-[cicd](screenshots/deploy1.png)
+![cicd](screenshots/deploy1.png)
 
 ### Deployment screenshot — containers running on VM
 
-[deploy](screenshots/deploy.png)
+![deploy](screenshots/deploy.png)
 
 ### Application screenshot — working UI
 
-[ui](screenshots/ui.png)
+![ui](screenshots/ui.png)
 
-[ui 1](screenshots/ui1.png)
+![ui 1](screenshots/ui1.png)
 
 
 ### Nginx setup screenshot
 
-[nginx conf](screenshots/nginxconf.png)
+![nginx conf](screenshots/nginxconf.png)
 
 
 ## Docker Hub
@@ -193,8 +193,8 @@ Images are published at:
 
 ### Docker Hub screenshot
 
-[docker hub 1](screenshots/hub.png)
+![docker hub 1](screenshots/hub.png)
 
-[docker hub 2](screenshots/hub1.png)
+![docker hub 2](screenshots/hub1.png)
 
-[docker hub 3](screenshots/hub2.png)
+![docker hub 3](screenshots/hub2.png)
